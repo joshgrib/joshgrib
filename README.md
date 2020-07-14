@@ -60,7 +60,7 @@ I'm online in other places
 * [Tailwind](https://tailwindcss.com/)
 * [deno](https://deno.land/)
     * [oak](https://github.com/oakserver/oak)
-* [Making a browser extension to run scripts for me]()
+* [Making a browser extension to run scripts for me](https://github.com/joshgrib/browser-ext)
 
 ##### 👨‍🔬 I want to test out
 
