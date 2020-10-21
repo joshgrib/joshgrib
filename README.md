@@ -2,6 +2,24 @@
 
 I'm Josh, welcome to my github profile!
 
+
+<table>
+  <tr>
+    <td>
+  
+![joshgrib's github stats](https://github-readme-stats.vercel.app/api?username=joshgrib&count_private=true&show_icons=true&theme=vision-friendly-dark)
+</td>
+  <td>
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshgrib&theme=vision-friendly-dark)
+  </td>
+  <td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshgrib&layout=compact&theme=vision-friendly-dark)
+  </td>
+  </tr>
+</table>
+
 My favorite tools that I use professionally or for personal projects:
 <p align="center">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code Badge">
