@@ -13,10 +13,6 @@ I'm Josh, welcome to my github profile!
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshgrib&theme=vision-friendly-dark)
   </td>
-  <td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshgrib&layout=compact&theme=vision-friendly-dark)
-  </td>
   </tr>
 </table>
 
