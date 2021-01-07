@@ -80,6 +80,7 @@ I'm online in other places
 
 * [foam](https://github.com/foambubble/foam-template)
 * [backstage](https://github.com/spotify/backstage)
+* [Ruby](https://www.ruby-lang.org/en/) - both on and off [rails](https://rubyonrails.org/)A
 
 #### 🔧 Cool tools
 
