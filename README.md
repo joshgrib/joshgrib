@@ -92,6 +92,10 @@ I'm online in other places
     * VSCode, Github, Bitbucket, and Chrome integrations
 * [VuePress](https://vuepress.vuejs.org/)
     * Awesome documentation sites or blogs powered by markdown that can live right next to the code, extensible with plugins/themes and making Vue components
+    
+#### Fun stuff
+
+* [Advent of Code](https://adventofcode.com/) - a code advent calendar, super fun problems with test data, so this would be great to learn a new language and do test-driven development from the start
 
 <!--
 #### ⏳ In the past I've used
