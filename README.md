@@ -80,7 +80,7 @@ I'm online in other places
 
 * [foam](https://github.com/foambubble/foam-template)
 * [backstage](https://github.com/spotify/backstage)
-* [Ruby](https://www.ruby-lang.org/en/) - both on and off [rails](https://rubyonrails.org/)A
+* [Ruby](https://www.ruby-lang.org/en/) - both on and off [rails](https://rubyonrails.org/)
 
 #### 🔧 Cool tools
 
@@ -95,7 +95,7 @@ I'm online in other places
     
 #### Fun stuff
 
-* [Advent of Code](https://adventofcode.com/) - a code advent calendar, super fun problems with test data, so this would be great to learn a new language and do test-driven development from the start
+* [Advent of Code](https://adventofcode.com/) - a code advent calendar, super neat problems with test data, so this would be great to learn a new language and do test-driven development from the start
 
 <!--
 #### ⏳ In the past I've used
