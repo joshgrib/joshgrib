@@ -9,10 +9,6 @@ I'm Josh, welcome to my github profile!
   
 ![joshgrib's github stats](https://github-readme-stats.vercel.app/api?username=joshgrib&count_private=true&show_icons=true&theme=vision-friendly-dark)
 </td>
-  <td>
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshgrib&theme=vision-friendly-dark)
-  </td>
   </tr>
 </table>
 
