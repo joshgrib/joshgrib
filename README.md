@@ -2,15 +2,9 @@
 
 I'm Josh, welcome to my github profile!
 
-
-<table>
-  <tr>
-    <td>
-  
 ![joshgrib's github stats](https://github-readme-stats.vercel.app/api?username=joshgrib&count_private=true&show_icons=true&theme=vision-friendly-dark)
-</td>
-  </tr>
-</table>
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=joshgrib&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 My favorite tools that I use professionally or for personal projects:
 <p align="center">
