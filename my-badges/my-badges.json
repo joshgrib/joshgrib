@@ -1,0 +1,128 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Vligai/gedcom/commit/a6b817c1ed4ffa5c2d63d0785c9ae8e2bb0b9922\"><strong>a</strong>6b817c1ed4ffa5c2d63d0785c9ae8e2bb0b9922</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/joshgrib/vuetris/commit/ab88ba8a750035d0a21d44fb66bed5f2907a6ba0\"><strong>ab</strong>88ba8a750035d0a21d44fb66bed5f2907a6ba0</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/v-minesweeper/commit/a68d062b32334a67fee5fb0df8a9068a1d600b0f\">a68d062</a>\n- <a href=\"https://github.com/joshgrib/docs-next/commit/4dad07cb61940c3bc98a7a8eba38f1dc032411ad\">4dad07c</a>\n- <a href=\"https://github.com/joshgrib/bn-playground/commit/c8f832470afae4503f366793a88523c59af3544b\">c8f8324</a>\n- <a href=\"https://github.com/joshgrib/bn-playground/commit/8b7cea3a03028f6c4e749e2fb1d9cb1edf18079a\">8b7cea3</a>\n- <a href=\"https://github.com/joshgrib/bn-playground/commit/aa7d03f62adf1c492603209b52d8986eee1044af\">aa7d03f</a>\n- <a href=\"https://github.com/joshgrib/2018S-coursework/commit/7dbbda24f78c1eda2663da9b8de4e441adfe1608\">7dbbda2</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/bn-playground/commit/8aa84f5010ed42fa3c09b648190fcbd4779aed0e\">8aa84f5</a>\n- <a href=\"https://github.com/joshgrib/mealplan-datavis/commit/f696d7e315ab1cc000c0ae7fe68c189493691726\">f696d7e</a>\n- <a href=\"https://github.com/joshgrib/mealplan-datavis/commit/87157615326641152f2d176ce8eecf746be0beed\">8715761</a>\n- <a href=\"https://github.com/joshgrib/2016F-coursework/commit/b4fe8ba35eb61d92df2a3a77e3c439be3319b6ae\">b4fe8ba</a>\n- <a href=\"https://github.com/joshgrib/2016F-coursework/commit/9f0898d1f964dfe465b718301ee3079391929447\">9f0898d</a>\n- <a href=\"https://github.com/joshgrib/2016A-coursework/commit/963e44db7cfe7b261914a4845e8d53ee2d27281d\">963e44d</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/ec620641e2ad6029d65aebdbd8d480931a601afe\">ec62064</a>\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/83fb05b4e03d17b40e37462aaacd54788d66e498\">83fb05b</a>\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/e278ff9fd49d91375ac40fd536f0fddc8427de13\">e278ff9</a>\n- <a href=\"https://github.com/joshgrib/zognorp/commit/c2c8c05de649c4cfcffa1effbd88403a32bc7ec7\">c2c8c05</a>\n- <a href=\"https://github.com/joshgrib/zognorp/commit/2c7f67a82e74a18cb0cac5499ca7bcff9de09ee1\">2c7f67a</a>\n- <a href=\"https://github.com/joshgrib/basic-computer-games/commit/6cc43acbc2f0ae986e6d405052fa33eed67c46a7\">6cc43ac</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/joshgrib.github.io_old/commit/ddbc33a475e4d58053da249095e56fc0cfe7ba02\">ddbc33a</a>\n- <a href=\"https://github.com/joshgrib/2016F-coursework/commit/5aa6e5c023aca326c4d498711231b043e1b332ea\">5aa6e5c</a>\n- <a href=\"https://github.com/joshgrib/sitstuff/commit/fb6a05d330603bb9a8953cf138c56b2c5f348b6b\">fb6a05d</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "star-gazer",
+    "tier": 0,
+    "desc": "I'm a star gazer!",
+    "body": "I've starred over 1000 repositories!",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/star-gazer/star-gazer.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/2016A-coursework/commit/e147de01962001fac703d1f1efe8f2dd334aa94c\">e147de0</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/2016S-coursework/commit/3f2b8cc16461fce9ee4240c3ec5c9a8da54105f2\">3f2b8cc</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/2016F-coursework/commit/d5ce7094bec6b1db134095915d09e005374bd5aa\">d5ce709</a>: Fix week day index issue on day view\n- <a href=\"https://github.com/joshgrib/2016F-coursework/commit/ee788ea594b6c1a166eabd00e41e67e85241e501\">ee788ea</a>: Fix month arrow button positioning",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/2017F-coursework/commit/f064edc3eb5c0c74b1ed6f3629988daaaf547f58\">f064edc</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/delorean/delorean.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "old-issue-4",
+    "tier": 4,
+    "desc": "I closed an issue that was open for 4 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/21\">#21</a>: Sort schedules\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/22\">#22</a>: Schedule for other years/semesters\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/24\">#24</a>: Write unit tests\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/25\">#25</a>: Add counter for schedules made and visitors on the home page\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/27\">#27</a>: Show a list of all courses available to be scheduled somewhere\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/30\">#30</a>: Convert to python 3\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/34\">#34</a>: Add place for tests\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/35\">#35</a>: Editing a course saves data differently than adding\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/36\">#36</a>: Move books to pythonanywhere server\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/37\">#37</a>: Try out some databases\n- <a href=\"https://github.com/joshgrib/course-scheduler/issues/39\">#39</a>: Add a way to add/edit/remove books\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/2\">#2</a>: Put all tests on the server and add to course class/forms\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/3\">#3</a>: Show a list of all courses available to be scheduled this semester\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/4\">#4</a>: Write unit tests\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/5\">#5</a>: Have scheduler update xml file automatically\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/6\">#6</a>: Sort schedules based on different option\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/7\">#7</a>: Closed courses cannot be scheduled\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/9\">#9</a>: Mess around with websockets for some chat thing\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/12\">#12</a>: Study plan creation tool\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/13\">#13</a>: Add dropdown to select what term to schedule for - get list by scheduler directory\n- <a href=\"https://github.com/joshgrib/sitstuff/issues/14\">#14</a>: Remake scheduling algorithm",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-4.png?raw=true"
+  },
+  {
+    "id": "old-issue-5",
+    "tier": 5,
+    "desc": "I closed an issue that was open for 5 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/joshgrib/gpp2015/issues/1\">#1</a>: We need to start!\n- <a href=\"https://github.com/joshgrib/gpp2015/issues/2\">#2</a>: Add to README\n- <a href=\"https://github.com/joshgrib/pyTexting/issues/8\">#8</a>: Make a gui for the program using tkinter\n- <a href=\"https://github.com/joshgrib/pyTexting/issues/9\">#9</a>: Add ability to add messages and cat facts\n- <a href=\"https://github.com/joshgrib/pyTexting/issues/10\">#10</a>: No way to get back from some menus, have to either follow through or close the whole program",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-5.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"to\".",
+    "body": "My favorite commit message words are:\n\n1. to (used 364 times)\n2. and (used 254 times)\n3. the (used 247 times)\n4. add (used 237 times)\n5. update (used 158 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/schmty/monokai-seti/issues/52\">#52</a>: Deprecated selector in `monokai-seti/index.less`\n- <a href=\"https://github.com/Kong/httpsnippet/issues/155\">#155</a>: Axios conversion",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  }
+]
