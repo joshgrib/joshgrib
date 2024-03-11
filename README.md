@@ -21,6 +21,9 @@ My favorite tools that I use professionally or for personal projects:
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg" alt="Powershell Badge">
 </p>
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 Things I've used in the past but don't actively work with:
 <p align="center">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python Badge">
