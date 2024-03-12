@@ -31,7 +31,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/ec620641e2ad6029d65aebdbd8d480931a601afe\">ec62064</a>\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/83fb05b4e03d17b40e37462aaacd54788d66e498\">83fb05b</a>\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/e278ff9fd49d91375ac40fd536f0fddc8427de13\">e278ff9</a>\n- <a href=\"https://github.com/joshgrib/zognorp/commit/c2c8c05de649c4cfcffa1effbd88403a32bc7ec7\">c2c8c05</a>\n- <a href=\"https://github.com/joshgrib/zognorp/commit/2c7f67a82e74a18cb0cac5499ca7bcff9de09ee1\">2c7f67a</a>\n- <a href=\"https://github.com/joshgrib/basic-computer-games/commit/6cc43acbc2f0ae986e6d405052fa33eed67c46a7\">6cc43ac</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/9b7f66cf8cb4ac2e0f4c1198c6f3233baae921a9\">9b7f66c</a>\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/ec620641e2ad6029d65aebdbd8d480931a601afe\">ec62064</a>\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/83fb05b4e03d17b40e37462aaacd54788d66e498\">83fb05b</a>\n- <a href=\"https://github.com/joshgrib/browser-ext/commit/e278ff9fd49d91375ac40fd536f0fddc8427de13\">e278ff9</a>\n- <a href=\"https://github.com/joshgrib/zognorp/commit/c2c8c05de649c4cfcffa1effbd88403a32bc7ec7\">c2c8c05</a>\n- <a href=\"https://github.com/joshgrib/zognorp/commit/2c7f67a82e74a18cb0cac5499ca7bcff9de09ee1\">2c7f67a</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -115,7 +115,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 364 times)\n2. and (used 254 times)\n3. the (used 247 times)\n4. add (used 237 times)\n5. update (used 158 times)",
+    "body": "My favorite commit message words are:\n\n1. to (used 365 times)\n2. and (used 255 times)\n3. the (used 247 times)\n4. add (used 238 times)\n5. update (used 158 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
